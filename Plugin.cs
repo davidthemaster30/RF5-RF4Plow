@@ -1,7 +1,7 @@
 ﻿using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
-using BepInEx.IL2CPP;
+using BepInEx.Unity.IL2CPP;
 using UnityEngine;
 using HarmonyLib;
 using System.Collections.Generic;
